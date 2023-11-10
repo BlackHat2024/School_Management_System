@@ -1,0 +1,3 @@
+1000,Enea,Mancellari,30,2000,1234
+1001,Tonin,Pernoj,52,2400,1234
+1002,Flavio,Pernoj,20,24000,flavio
